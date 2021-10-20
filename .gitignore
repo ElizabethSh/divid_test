@@ -1,6 +1,0 @@
-.idea
-.vscode
-node_modules
-
-# Добавим папку dist в .gitignore чтобы git не отслеживал в ней изменения
-dist
